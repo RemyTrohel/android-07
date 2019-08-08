@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="button_alert">ALERT</string>
+    <string name="alert_dialog_title">Important message</string>
+    <string name="alert_dialog_message">I accept to read resources on every step !</string>
+    <string name="alert_dialog_positive_button">ACCEPT</string>
+    <string name="alert_dialog_negative_button">CANCEL</string>
+    <string name="toast_text">Congratulation</string>
+</resources>
